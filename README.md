@@ -19,7 +19,7 @@ Designed an interactive Power BI dashboard to analyze product sales across regio
 - Presented via pie charts, bar graphs, and line plots
 
 🖼️ **Preview**:
-![Dashboard Preview](PowerBI-Projects/visuals_screenshot.png) 
+![Dashboard Preview](visuals_screenshot.png) 
 
 ---
 
